@@ -64,16 +64,9 @@ Shows:
 ## 📷 Screenshots
 
 ### Hospital Overview
-
-![Hospital Overview](Images/HospitalOverview.png)
-
 ### Treatment & Outcomes
-
-![Treatment & Outcomes](Images/TreatmentOutcomes.png)
-
 ### Cost & Operations
 
-![Cost & Operations](Images/CostOperations.png)
 ---
 
 ## 🎯 Skills Demonstrated

@@ -1,0 +1,107 @@
+# 🏥 Hospital Performance Analysis Dashboard
+
+## 📌 Project Overview
+
+This project is an interactive Power BI dashboard developed to analyze hospital performance and patient-related data. The dashboard provides meaningful insights into hospital operations through interactive visualizations, KPIs, and filters, helping users understand patient trends, treatment outcomes, and operational performance.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- Data Visualization
+
+---
+
+## 📊 Dashboard Features
+
+- Total Patients
+- Total Cost
+- Average Treatment Cost
+- Average Length of Stay
+- Readmission Analysis
+- Patient Satisfaction Analysis
+- Gender-wise Patient Distribution
+- Age Group Analysis
+- Treatment Outcome Analysis
+- Condition-wise Patient Analysis
+- Interactive Slicers and Filters
+
+---
+
+## 📄 Dashboard Pages
+
+### 1. Hospital Overview
+Displays key hospital KPIs such as:
+- Total Patients
+- Total Cost
+- Average Cost
+- Average Length of Stay
+- Readmission Rate
+- Patient Satisfaction
+
+---
+
+### 2. Treatment & Outcomes
+Provides insights into:
+- Patient Outcomes
+- Treatment Procedures
+- Medical Conditions
+- Recovery Trends
+
+---
+
+### 3. Cost & Operations
+Shows:
+- Cost Analysis
+- Procedure-wise Expenses
+- Patient Records
+- Operational Insights
+
+---
+
+## 📷 Screenshots
+
+### Hospital Overview
+
+![Hospital Overview](Images/Dashboard.png)
+
+### Treatment & Outcomes
+
+![Treatment & Outcomes](Images/Treatment_Outcomes.png)
+
+### Cost & Operations
+
+![Cost & Operations](Images/Cost_Operations.png)
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Dashboard Design
+- Data Visualization
+- Healthcare Data Analysis
+- KPI Reporting
+- Interactive Reporting
+- Business Intelligence
+
+---
+
+## 📌 Repository Structure
+
+```
+Hospital-Performance-Analysis-PowerBI
+│
+├── README.md
+├── Hospital_Performance_Analysis.pbix
+│
+└── Images
+    ├── Dashboard.png
+    ├── Treatment_Outcomes.png
+    └── Cost_Operations.png
+```
+
+---
+
+MCA Graduate | Aspiring Data Analyst | Power BI | SQL | Python

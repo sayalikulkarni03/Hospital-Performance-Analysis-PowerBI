@@ -33,7 +33,9 @@ This project is an interactive Power BI dashboard developed to analyze hospital 
 ## 📄 Dashboard Pages
 
 ### 1. Hospital Overview
+
 Displays key hospital KPIs such as:
+
 - Total Patients
 - Total Cost
 - Average Cost
@@ -41,19 +43,19 @@ Displays key hospital KPIs such as:
 - Readmission Rate
 - Patient Satisfaction
 
----
-
 ### 2. Treatment & Outcomes
+
 Provides insights into:
+
 - Patient Outcomes
 - Treatment Procedures
 - Medical Conditions
 - Recovery Trends
 
----
-
 ### 3. Cost & Operations
+
 Shows:
+
 - Cost Analysis
 - Procedure-wise Expenses
 - Patient Records
@@ -63,11 +65,17 @@ Shows:
 
 ## 📷 Screenshots
 
-Screenshots of the Power BI dashboard are available in the **Images** folder of this repository.
+### Hospital Overview
 
-- Hospital Overview
-- Treatment & Outcomes
-- Cost & Operations
+![Hospital Overview](HospitalOverview.png)
+
+### Treatment & Outcomes
+
+![Treatment & Outcomes](TreatmentOutcomes.png)
+
+### Cost & Operations
+
+![Cost & Operations](CostOperations.png)
 
 ---
 
@@ -82,20 +90,18 @@ Screenshots of the Power BI dashboard are available in the **Images** folder of 
 
 ---
 
-## 📌 Repository Structure
+## 📁 Repository Structure
 
 ```text
 Hospital-Performance-Analysis-PowerBI
 │
 ├── README.md
 ├── LICENSE
-├── Hospital_Performance_Analysis.pbix
-└── Images
-    ├── Hospital Overview
-    ├── Treatment_Outcomes.png
-    └── Cost_Operations.png
+├── HospitalPerformanceDashboard.pbix
+├── HospitalOverview.png
+├── TreatmentOutcomes.png
+└── CostOperations.png
 ```
 
----
 
-MCA Graduate | Aspiring Data Analyst | Power BI | SQL | Python
+MCA Graduate | Aspiring Data Analyst | Power BI | SQL 

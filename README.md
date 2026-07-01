@@ -67,9 +67,9 @@ Shows:
 
 Screenshots of the Power BI dashboard are available in the **Images** folder of this repository.
 
-- Hospital Overview
-- Treatment & Outcomes
-- Cost & Operations
+- HospitalOverview
+- TreatmentOutcomes
+- CostOperations
 
 ## 🎯 Skills Demonstrated
 

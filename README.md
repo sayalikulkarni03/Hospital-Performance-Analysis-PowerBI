@@ -65,16 +65,15 @@ Shows:
 
 ### Hospital Overview
 
-![Hospital Overview](Images/Dashboard.png)
+![Hospital Overview](Images/HospitalOverview.png)
 
 ### Treatment & Outcomes
 
-![Treatment & Outcomes](Images/Treatment_Outcomes.png)
+![Treatment & Outcomes](Images/TreatmentOutcomes.png)
 
 ### Cost & Operations
 
-![Cost & Operations](Images/Cost_Operations.png)
-
+![Cost & Operations](Images/CostOperations.png)
 ---
 
 ## 🎯 Skills Demonstrated

@@ -84,12 +84,12 @@ Screenshots of the Power BI dashboard are available in the **Images** folder of 
 
 ## 📌 Repository Structure
 
-```
+```text
 Hospital-Performance-Analysis-PowerBI
 │
 ├── README.md
+├── LICENSE
 ├── Hospital_Performance_Analysis.pbix
-│
 └── Images
     ├── Dashboard.png
     ├── Treatment_Outcomes.png

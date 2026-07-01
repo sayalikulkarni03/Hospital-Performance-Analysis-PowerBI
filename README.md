@@ -91,7 +91,7 @@ Hospital-Performance-Analysis-PowerBI
 ├── LICENSE
 ├── Hospital_Performance_Analysis.pbix
 └── Images
-    ├── Dashboard.png
+    ├── Hospital Overview
     ├── Treatment_Outcomes.png
     └── Cost_Operations.png
 ```
